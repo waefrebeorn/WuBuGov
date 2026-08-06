@@ -62,6 +62,9 @@ WuBuGov governs and indexes the following domains of the ~ WuBu ~ space:
 - `WuBuResearch` — **R&D**: organizes the information, researches the best
   governments & cryptography, invents WuBu crypto (PennyChain). Works with the
   Bureau on ground intel and penny tracking.
+- `WuBuEconomics` — **Economics Division**: studies the world's economics,
+  files the solutions, campaigns to bring back the penny (restore intrinsic
+  value), and builds the transition from class to comfort.
 - `waefrebeorn.org` — the domain, the address of the space
 - Email system — `postmaster@waefrebeorn.org` and the public mailbox
 - Cloudflare — free HTTPS, DNS, and edge for the whole space
