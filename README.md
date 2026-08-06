@@ -57,6 +57,8 @@ WuBuGov governs and indexes the following domains of the ~ WuBu ~ space:
 - `WuBuGov` — THIS repository: the index & constitution
 - `WuBuIntel` — **the Bureau**: intelligence & vigilance, see-something-say-something,
   excessive compliance against fascism. We are the first ones.
+- `WuBuCitizen` — **the Registry**: citizenship, WID identification numbers
+  (mod-11 checksum), and the Penny Score credit system. We are the first ones.
 - `waefrebeorn.org` — the domain, the address of the space
 - Email system — `postmaster@waefrebeorn.org` and the public mailbox
 - Cloudflare — free HTTPS, DNS, and edge for the whole space
