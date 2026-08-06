@@ -136,6 +136,14 @@ reproducible by anyone.)
 
 ## Article III — Willing abatement
 
+> **AMENDED BY GOV-2 (Adaptation, Not Dissolution):** Article III
+> below is superseded for the spacefaring era. The space does not
+> dissolve — it adapts like an amoeba, for 2,500 years and beyond.
+> See `docs/adaptation-not-dissolution.md` (GOV-2) for the full
+> amendment. What is preserved from this article: the anti-cult
+> humility — nothing in the space is permanent except the
+> adaptation; any single institution may be shed at any time.
+
 > *"The only reason is willing abatement. It's not through
 > resentment or through nagging. It's really just more convenient
 > because all of the problems are solved."*
@@ -251,5 +259,9 @@ The ~ WuBu ~ space is:
 **The one-line constitution:**
 > *We are an ideology in agreement, powerless on purpose, filed in
 > public, dissolved when done.*
+>
+> *(AMENDED BY GOV-2: ...and we do not dissolve; we adapt, like an
+> amoeba, for 2,500 years and beyond, holding every belief about the
+> beginning, ready for whoever we meet, knowing that we do not know.)*
 
 *Form GOV-1 — The Nature of the Government. Filed. Done. Next.*
