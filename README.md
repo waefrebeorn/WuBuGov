@@ -1,22 +1,23 @@
 # ~ WuBuGov ~
 
-**Government-grade infrastructure for the ~ WuBu ~ space.**
+**Government-grade tools for the ~ WuBu ~ space.**
 
-WuBuGov is the public-facing digital governance arm of WaefreBeorn. It is a
-conversation and conversion: from land-owning corporations to the dissolution
-of corporate entities, toward **space capitalism** — where value flows from
-creation, not extraction. WuBuGov serves dual-citizen creators: people who
-belong to more than one place and owe their loyalty to the work itself.
+WuBuGov is the public digital state of WaefreBeorn. It runs a
+conversation and a conversion. We move from land-owning companies to
+the end of corporate rule. We move toward **space capitalism**.
+Value flows from making, not taking. WuBuGov serves dual-citizen
+creators. These are people who belong to more than one place. Their
+loyalty belongs to the work itself.
 
 > **~ WuBu ~ is my space. This is WaefreBeorn.**
 
-## What this repository is
+## What this repo is
 
-This is the **index and canonical repository** for WuBuGov — the digital
-government of the ~ WuBu ~ space. It mirrors the organizational pattern of
-real-world governments that publish open infrastructure (e.g. the Swiss
-Federal Chancellery's GitHub org, `github.com/swiss`), adapted for the
-WaefreBeorn umbrella.
+This is the **index and home repo** for WuBuGov. WuBuGov is
+the digital state of the ~ WuBu ~ space. It copies the pattern
+of open states that publish their tools. One model is the Swiss
+Federal Chancellery's GitHub org (`github.com/swiss`). We fit that
+pattern to the WaefreBeorn umbrella.
 
 It contains:
 
@@ -24,18 +25,20 @@ It contains:
 |------|---------|
 | `README.md` | This index — the map of the WuBuGov ecosystem |
 | `LICENSE` | WaefreBeorn Umbrella License v3.0 (canonical, with Penny Clause) |
-| `publiccode.yml` | Government metadata standard (publiccode.yml v0.5) |
+| `publiccode.yml` | Gov metadata standard (publiccode.yml v0.5) |
 | `docs/7-magic-keys.md` | The 7 Magic Key Processor — auth & key system |
-| `docs/email-system.md` | Public email repository system (waefrebeorn.org) |
+| `docs/email-system.md` | Public email system (waefrebeorn.org) |
+| `docs/digital-government-doctrine.md` | **GOV-4** — the Digital Government Doctrine: OECD six dimensions + open-government principles + participation ladder |
+| `docs/user-doctrine.md` | **GOV-5** — the User Doctrine: AGI is not a user (the Vehicle Clause runs both ways); the interface is the Jesus principle; the Iron Giant clause; priority is sapience math (`cohesion`, WuBuCore) |
 | `docs/cloudflare-setup.md` | Free HTTPS via Cloudflare |
-| `docs/github-org.md` | GitHub organization & repo standards |
+| `docs/github-org.md` | GitHub org & repo rules |
 | `docs/profitability.md` | Professional & profitable operation plan |
-| `keys/` | Key processor scripts and templates |
+| `keys/` | Key system scripts and templates |
 | `.github/` | Org-wide defaults (profile, issue templates) |
 
 ## WuBuGov ecosystem map
 
-WuBuGov governs and indexes the following domains of the ~ WuBu ~ space:
+WuBuGov governs and indexes the domains of the ~ WuBu ~ space:
 
 ### Core Infrastructure
 - `WuBuOS` — Hybrid AGI operating system (C11, TempleOS/ZealOS heritage)
@@ -54,27 +57,34 @@ WuBuGov governs and indexes the following domains of the ~ WuBu ~ space:
 - `WuBuRouter` — Unlimited FREE AI coding router
 
 ### Government & Governance (WuBuGov)
-- `WuBuGov` — THIS repository: the index & constitution
-- `WuBuIntel` — **the Bureau**: intelligence & vigilance, see-something-say-something,
-  excessive compliance against fascism. We are the first ones.
-- `WuBuCitizen` — **the Registry**: citizenship, WID identification numbers
-  (mod-11 checksum), and the Penny Score credit system. We are the first ones.
-- `WuBuResearch` — **R&D**: organizes the information, researches the best
-  governments & cryptography, invents WuBu crypto (PennyChain). Works with the
-  Bureau on ground intel and penny tracking.
-- `WuBuEconomics` — **Economics Division**: studies the world's economics,
-  files the solutions, campaigns to bring back the penny (restore intrinsic
-  value), and builds the transition from class to comfort.
-- `WuBuCore` — **the C11 operations core**: every instrument the space runs
-  on ported to self-contained C11 modules — WID, Penny Score, PennyChain
-  (clean-room SHA-256), Penny Weight reserve audit, and the full economics
-  suite (Status Loop, Vacant Lot, Lifespan Loop, Numbing, Better Service,
-  Greed Index, World Model, Mirror Score, WuBu Laws). Opaque structs, no
-  god headers, no third party. The tools of the space, properly made.
-- `money-room` — **the Money Room**: the space's 80-dim C11 market-prediction
-  engine — 10,000-agent P2P voting crowd, Q-controller, 10 teacher strategies,
-  ensemble stacking. The silicon crowd of the Unified World Model (RND-17).
-  High greed-index item: it watches the market so the Greed Index can watch it.
+- `WuBuGov` — THIS repo: the index & constitution
+- `WuBuIntel` — **the Bureau**: intelligence & vigilance,
+  see-something-say-something, excessive compliance against fascism.
+  We are the first ones.
+- `WuBuCitizen` — **the Registry**: citizenship, WID identification
+  numbers (mod-11 checksum), and the Penny Score credit system. We
+  are the first ones.
+- `WuBuResearch` — **R&D**: it organizes the information. It studies
+  the best governments and cryptography. It invents WuBu crypto
+  (PennyChain). It works with the Bureau on ground intel and penny
+  tracking.
+- `WuBuEconomics` — **Economics Division**: it studies the world's
+  economics. It files the solutions. It campaigns to bring back the
+  penny (restore intrinsic value). It builds the move from class to
+  comfort.
+- `WuBuCore` — **the C11 operations core**: every tool the space
+  runs on, ported to self-contained C11 modules. That means WID,
+  Penny Score, and PennyChain (clean-room SHA-256). Plus the Penny
+  Weight reserve audit. Plus the full economics suite: Status Loop,
+  Vacant Lot, Lifespan Loop, Numbing, Better Service, Greed Index,
+  World Model, Mirror Score, WuBu Laws. Opaque structs. No god
+  headers. No third party. The tools of the space, properly made.
+- `money-room` — **the Money Room**: the space's 80-dim C11
+  market-prediction engine. It runs a 10,000-agent P2P voting crowd,
+  a Q-controller, 10 teacher strategies, and ensemble stacking. It
+  is the silicon crowd of the Unified World Model (RND-17). It is a
+  high greed-index item: it watches the market so the Greed Index
+  can watch it.
 - `waefrebeorn.org` — the domain, the address of the space
 - Email system — `postmaster@waefrebeorn.org` and the public mailbox
 - Cloudflare — free HTTPS, DNS, and edge for the whole space
@@ -86,21 +96,22 @@ WuBuGov governs and indexes the following domains of the ~ WuBu ~ space:
 
 ## The 7 Magic Keys
 
-WuBuGov authenticates through the **7 Magic Key Processor** — a key system
-that gates access to every WuBuGov service: GitHub, email, DNS, HTTPS,
-payments, and the penny mailbox.
+WuBuGov signs in through the **7 Magic Key System**. This key system
+gates every WuBuGov service: GitHub, email, DNS, HTTPS, payments,
+and the penny mailbox.
 
 The seven keys are:
 
 1. **GitHub Key** — write access to the org
-2. **Mail Key** — the email repository system
+2. **Mail Key** — the email system
 3. **DNS Key** — Cloudflare API token
 4. **Edge Key** — HTTPS / TLS management
 5. **Coin Key** — the physical penny mailbox
 6. **Seal Key** — the umbrella license seal (signing)
 7. **Root Key** — the master recovery key
 
-See [`docs/7-magic-keys.md`](docs/7-magic-keys.md) for the full processor.
+See [`docs/7-magic-keys.md`](docs/7-magic-keys.md) for the full
+system.
 
 ## Contact
 
@@ -111,12 +122,12 @@ See [`docs/7-magic-keys.md`](docs/7-magic-keys.md) for the full processor.
 
 ## License
 
-**WaefreBeorn Umbrella License v3.0** — source-available, agnostic, omnivorous.
-The Populace is free. The corporation is an entity of money.
-**Anyone may use this license for THEIR work** — adopt it, and your work joins
-the ~ WuBu ~ space.
+**WaefreBeorn Umbrella License v3.0** — source-available, agnostic,
+omnivorous. The Populace is free. The corporation is an entity of
+money. **Anyone may use this license for THEIR work** — adopt it, and
+your work joins the ~ WuBu ~ space.
 
-**The Penny Clause (§14):** every use, derivative, or redistribution requires
-one **physical** penny sent by **physical mail**. No digital pennies. Only
-real metal. If you've read this far, grab a penny and put it in an envelope.
-Do it now. WaefreBeorn is watching.
+**The Penny Clause (§14):** every use, derivative, or redistribution
+requires one **physical** penny sent by **physical mail**. No digital
+pennies. Only real metal. If you've read this far, grab a penny and
+put it in an envelope. Do it now. WaefreBeorn is watching.
