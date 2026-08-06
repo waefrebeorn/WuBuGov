@@ -1,0 +1,55 @@
+publiccodeYmlVersion: 0.5.0
+name: WuBuGov
+url: https://github.com/waefrebeorn/WuBuGov
+landingURL: https://waefrebeorn.org
+softwareVersion: "1.0.0"
+releaseDate: 2026-08-06
+platforms:
+  - web
+  - linux
+categories:
+  - digital-citizenship
+  - collaboration
+developmentStatus: beta
+softwareType: standalone/other
+description:
+  en:
+    localisedName: WuBuGov
+    shortDescription: >-
+      Government-grade digital infrastructure for the ~ WuBu ~ space:
+      the 7 Magic Key Processor, public email repository system, and
+      the WaefreBeorn Umbrella License with the Penny Clause.
+    longDescription: >-
+      WuBuGov is the public-facing digital governance arm of WaefreBeorn.
+      It is a conversation and conversion: from land-owning corporations
+      to the dissolution of corporate entities, toward space capitalism,
+      where value flows from creation, not extraction.
+
+      The repository contains the canonical index of the WuBuGov
+      ecosystem, the WaefreBeorn Umbrella License v3.0 (with the
+      physical Penny Clause), the 7 Magic Key Processor authentication
+      system, the public email repository system on waefrebeorn.org,
+      and the free Cloudflare HTTPS playbook.
+
+      Anyone may use the umbrella license for their own work, making
+      their work part of the ~ WuBu ~ space.
+    features:
+      - 7 Magic Key Processor (GitHub, Mail, DNS, Edge, Coin, Seal, Root)
+      - Public email repository (postmaster@waefrebeorn.org)
+      - Free HTTPS via Cloudflare
+      - WaefreBeorn Umbrella License v3.0 with physical Penny Clause
+      - publiccode.yml metadata standard
+legal:
+  license: WaefreBeorn-Umbrella-3.0
+  mainCopyrightOwner: WaefreBeorn
+  repoOwner: waefrebeorn
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - en
+maintenance:
+  type: community
+  contacts:
+    - name: WaefreBeorn
+      email: postmaster@waefrebeorn.org
+      phone: ""

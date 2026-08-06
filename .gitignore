@@ -1,0 +1,22 @@
+# Vault / secrets — never commit
+*.gpg
+*.asc.bak
+.env
+keys/*.priv
+keys/*.secret
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Build
+build/
+dist/
+*.o
+*.a
+*.so
