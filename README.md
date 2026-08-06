@@ -65,6 +65,12 @@ WuBuGov governs and indexes the following domains of the ~ WuBu ~ space:
 - `WuBuEconomics` — **Economics Division**: studies the world's economics,
   files the solutions, campaigns to bring back the penny (restore intrinsic
   value), and builds the transition from class to comfort.
+- `WuBuCore` — **the C11 operations core**: every instrument the space runs
+  on ported to self-contained C11 modules — WID, Penny Score, PennyChain
+  (clean-room SHA-256), Penny Weight reserve audit, and the full economics
+  suite (Status Loop, Vacant Lot, Lifespan Loop, Numbing, Better Service,
+  Greed Index, World Model, Mirror Score, WuBu Laws). Opaque structs, no
+  god headers, no third party. The tools of the space, properly made.
 - `money-room` — **the Money Room**: the space's 80-dim C11 market-prediction
   engine — 10,000-agent P2P voting crowd, Q-controller, 10 teacher strategies,
   ensemble stacking. The silicon crowd of the Unified World Model (RND-17).
