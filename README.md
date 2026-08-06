@@ -55,6 +55,8 @@ WuBuGov governs and indexes the following domains of the ~ WuBu ~ space:
 
 ### Government & Governance (WuBuGov)
 - `WuBuGov` — THIS repository: the index & constitution
+- `WuBuIntel` — **the Bureau**: intelligence & vigilance, see-something-say-something,
+  excessive compliance against fascism. We are the first ones.
 - `waefrebeorn.org` — the domain, the address of the space
 - Email system — `postmaster@waefrebeorn.org` and the public mailbox
 - Cloudflare — free HTTPS, DNS, and edge for the whole space
