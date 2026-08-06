@@ -34,6 +34,10 @@ It contains:
 | `docs/china-model-doctrine.md` | **GOV-7** — the China Model Doctrine: the grid, the petition, the swift act (12345), no cross-domain cancellation, the veto target, prevention-first, Fengqiao resolve-lowest, open mobilization (`escalate`) |
 | `docs/agi-system-doctrine.md` | **GOV-8** — the AGI System Doctrine: every system's criticisms filed (Goodhart, US money/polarization, USSR quotas/three-truths, China, Estonia); the ten requirements; the best system is the most audited (`goodhart`) |
 | `docs/ratchet-doctrine.md` | **GOV-9** — the Ratchet Doctrine: defend against two-party ratcheting, three-party splits, party cams; age limits filed as information; term limits + many limitations; local elections on the real-time clock (`rotation`) |
+| `docs/audit-triple-da.md` | **AUD-1/2** — the triple-DA audit: numbering collisions found and fixed, cross-repo consistency |
+| `docs/audit-triple-da-corpus.md` | **AUD-3** — the corpus triple-DA: tools re-verified 12/12, amendment pointers, indexing, the language-gate finding |
+| `docs/organization-doctrine.md` | **GOV-11** — the Organization Doctrine: the space's org chart (six organs, one people); every doctrine ships a tool; every audit ships a tool (`vigilance`, `filing_check`) |
+| `docs/two-tongue-doctrine.md` | **GOV-10** — the Two-Tongue Doctrine: English + Chinese, the space's two standard languages; the gate speaks both |
 | `docs/cloudflare-setup.md` | Free HTTPS via Cloudflare |
 | `docs/github-org.md` | GitHub org & repo rules |
 | `docs/profitability.md` | Professional & profitable operation plan |

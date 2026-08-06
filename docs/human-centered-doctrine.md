@@ -4,6 +4,9 @@
 artificial intelligence, AGI, and the human mirror problem.
 Filed after triple-DA research (AUD-2, RND-18).**
 
+**AMENDED BY: GOV-5 (User Doctrine) Article I; GOV-6 (Integration
+Doctrine) Part 3 — see those filings for the amendments.**
+
 ---
 
 ## Article I — What AI is (the tool doctrine)

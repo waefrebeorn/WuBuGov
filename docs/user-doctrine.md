@@ -7,6 +7,10 @@ car cannot be a user. The companion tool is `cohesion` (C11,
 WuBuCore) — priority by sapience is math, and the math is filed.
 Research by WuBuResearch (Margulis endosymbiosis; The Iron Giant).**
 
+**AMENDED BY: GOV-6 (Integration Doctrine) Article I — the person
+may choose to merge; the digital-one class is the chosen merger's
+lawful shape.**
+
 ---
 
 ## Part 1 — The correction, filed verbatim
