@@ -65,6 +65,10 @@ WuBuGov governs and indexes the following domains of the ~ WuBu ~ space:
 - `WuBuEconomics` — **Economics Division**: studies the world's economics,
   files the solutions, campaigns to bring back the penny (restore intrinsic
   value), and builds the transition from class to comfort.
+- `money-room` — **the Money Room**: the space's 80-dim C11 market-prediction
+  engine — 10,000-agent P2P voting crowd, Q-controller, 10 teacher strategies,
+  ensemble stacking. The silicon crowd of the Unified World Model (RND-17).
+  High greed-index item: it watches the market so the Greed Index can watch it.
 - `waefrebeorn.org` — the domain, the address of the space
 - Email system — `postmaster@waefrebeorn.org` and the public mailbox
 - Cloudflare — free HTTPS, DNS, and edge for the whole space
