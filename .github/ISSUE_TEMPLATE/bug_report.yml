@@ -1,0 +1,32 @@
+---
+name: Bug report
+description: File a bug report for WuBuGov
+title: "[BUG] "
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do and what went wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should have happened?
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, versions, anything relevant
+  - type: checkboxes
+    id: penny
+    attributes:
+      label: Penny Clause
+      description: Did you read the license (§14) and send your physical penny?
+      options:
+        - label: "Yes — I read the Penny Clause and I will send a physical penny by mail"
+          required: true

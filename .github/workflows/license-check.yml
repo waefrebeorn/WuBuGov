@@ -1,0 +1,16 @@
+name: license-check
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch canonical license
+        run: |
+          curl -fsSL https://raw.githubusercontent.com/waefrebeorn/waefrebeorn-umbrella-license/main/LICENSE -o /tmp/canonical-LICENSE
+      - name: Compare
+        run: |
+          if ! diff -q LICENSE /tmp/canonical-LICENSE; then
+            echo "::error::LICENSE is stale. Copy from waefrebeorn-umbrella-license."
+            exit 1
+          fi
