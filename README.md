@@ -31,6 +31,9 @@ It contains:
 | `docs/digital-government-doctrine.md` | **GOV-4** — the Digital Government Doctrine: OECD six dimensions + open-government principles + participation ladder |
 | `docs/user-doctrine.md` | **GOV-5** — the User Doctrine: AGI is not a user (the Vehicle Clause runs both ways); the interface is the Jesus principle; the Iron Giant clause; priority is sapience math (`cohesion`, WuBuCore) |
 | `docs/integration-doctrine.md` | **GOV-6** — the Integration Doctrine: users WILL want mirror integration — understood, not punished; the digital-one citizenship class (chosen, never forced); the statistical gate (`decline_gate`); comparative compartmentalization (TLC/BBC/China model) |
+| `docs/china-model-doctrine.md` | **GOV-7** — the China Model Doctrine: the grid, the petition, the swift act (12345), no cross-domain cancellation, the veto target, prevention-first, Fengqiao resolve-lowest, open mobilization (`escalate`) |
+| `docs/agi-system-doctrine.md` | **GOV-8** — the AGI System Doctrine: every system's criticisms filed (Goodhart, US money/polarization, USSR quotas/three-truths, China, Estonia); the ten requirements; the best system is the most audited (`goodhart`) |
+| `docs/ratchet-doctrine.md` | **GOV-9** — the Ratchet Doctrine: defend against two-party ratcheting, three-party splits, party cams; age limits filed as information; term limits + many limitations; local elections on the real-time clock (`rotation`) |
 | `docs/cloudflare-setup.md` | Free HTTPS via Cloudflare |
 | `docs/github-org.md` | GitHub org & repo rules |
 | `docs/profitability.md` | Professional & profitable operation plan |
