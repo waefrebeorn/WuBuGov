@@ -30,6 +30,7 @@ It contains:
 | `docs/email-system.md` | Public email system (waefrebeorn.org) |
 | `docs/digital-government-doctrine.md` | **GOV-4** — the Digital Government Doctrine: OECD six dimensions + open-government principles + participation ladder |
 | `docs/user-doctrine.md` | **GOV-5** — the User Doctrine: AGI is not a user (the Vehicle Clause runs both ways); the interface is the Jesus principle; the Iron Giant clause; priority is sapience math (`cohesion`, WuBuCore) |
+| `docs/integration-doctrine.md` | **GOV-6** — the Integration Doctrine: users WILL want mirror integration — understood, not punished; the digital-one citizenship class (chosen, never forced); the statistical gate (`decline_gate`); comparative compartmentalization (TLC/BBC/China model) |
 | `docs/cloudflare-setup.md` | Free HTTPS via Cloudflare |
 | `docs/github-org.md` | GitHub org & repo rules |
 | `docs/profitability.md` | Professional & profitable operation plan |
