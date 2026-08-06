@@ -59,6 +59,9 @@ WuBuGov governs and indexes the following domains of the ~ WuBu ~ space:
   excessive compliance against fascism. We are the first ones.
 - `WuBuCitizen` — **the Registry**: citizenship, WID identification numbers
   (mod-11 checksum), and the Penny Score credit system. We are the first ones.
+- `WuBuResearch` — **R&D**: organizes the information, researches the best
+  governments & cryptography, invents WuBu crypto (PennyChain). Works with the
+  Bureau on ground intel and penny tracking.
 - `waefrebeorn.org` — the domain, the address of the space
 - Email system — `postmaster@waefrebeorn.org` and the public mailbox
 - Cloudflare — free HTTPS, DNS, and edge for the whole space
