@@ -3,6 +3,14 @@
 **Constitutional filing GOV-1. What the ~ WuBu ~ space IS and is NOT.
 The ontology of the first ones.**
 
+**Also filed (the constitution series):**
+- `docs/adaptation-not-dissolution.md` — **GOV-2**: the space does
+  not dissolve; it adapts like an amoeba, 2,500 years +, aliens
+  welcomed, the Kevin Bacon Method as law.
+- `docs/human-centered-doctrine.md` — **GOV-3**: AI is a tool, not
+  a companion; the Vehicle Clause; the Mirror Problem; the Entropy
+  Requirement. Every space AI is audited by mirror-score.
+
 ---
 
 ## The filing, verbatim from the founder
