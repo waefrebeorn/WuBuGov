@@ -23,7 +23,7 @@ It contains:
 
 | Path | Purpose |
 |------|---------|
-| `README.md` | This index — the map of the WuBuGov ecosystem |
+| `README.md` | This index — the map of the WuBuGov ecosystem. The complete filing table is generated in [`INDEX.md`](INDEX.md) |
 | `LICENSE` | WaefreBeorn Umbrella License v3.0 (canonical, with Penny Clause) |
 | `publiccode.yml` | Gov metadata standard (publiccode.yml v0.5) |
 | `docs/7-magic-keys.md` | The 7 Magic Key Processor — auth & key system |
@@ -34,7 +34,7 @@ It contains:
 | `docs/china-model-doctrine.md` | **GOV-7** — the China Model Doctrine: the grid, the petition, the swift act (12345), no cross-domain cancellation, the veto target, prevention-first, Fengqiao resolve-lowest, open mobilization (`escalate`) |
 | `docs/agi-system-doctrine.md` | **GOV-8** — the AGI System Doctrine: every system's criticisms filed (Goodhart, US money/polarization, USSR quotas/three-truths, China, Estonia); the ten requirements; the best system is the most audited (`goodhart`) |
 | `docs/ratchet-doctrine.md` | **GOV-9** — the Ratchet Doctrine: defend against two-party ratcheting, three-party splits, party cams; age limits filed as information; term limits + many limitations; local elections on the real-time clock (`rotation`) |
-| `docs/audit-triple-da.md` | **AUD-1/2** — the triple-DA audit: numbering collisions found and fixed, cross-repo consistency |
+| `docs/audit-triple-da.md` | **AUD-1** — the triple-DA audit: numbering collisions found and fixed, cross-repo consistency (AUD-2 is its annotation) |
 | `docs/audit-triple-da-corpus.md` | **AUD-3** — the corpus triple-DA: tools re-verified 12/12, amendment pointers, indexing, the language-gate finding |
 | `docs/organization-doctrine.md` | **GOV-11** — the Organization Doctrine: the space's org chart (six organs, one people); every doctrine ships a tool; every audit ships a tool (`vigilance`, `filing_check`); 6 institutions filed (GOV-12–17) |
 | `docs/two-tongue-doctrine.md` | **GOV-10** — the Two-Tongue Doctrine: English + Chinese, the space's two standard languages; the gate speaks both |
@@ -44,6 +44,7 @@ It contains:
 | `docs/ship-doctrine.md` | **GOV-15** — the Ship Doctrine: the crew manifest, who holds which rope, which seat goes to whom |
 | `docs/archive-doctrine.md` | **GOV-16** — the Archive Doctrine: the Library mind-country's public record of everything |
 | `docs/vote-doctrine.md` | **GOV-17** — the Vote Doctrine: the filing-based decision system (every report counts) |
+| `docs/integrity-doctrine.md` | **GOV-77** — the Integrity Doctrine: the corpus seal (`govgen seal`), the eight audit gates, and the rule that a register of what should exist is not evidence of what does exist |
 | `docs/cloudflare-setup.md` | Free HTTPS via Cloudflare |
 | `docs/github-org.md` | GitHub org & repo rules |
 | `docs/profitability.md` | Professional & profitable operation plan |
@@ -51,6 +52,12 @@ It contains:
 | `.github/` | Org-wide defaults (profile, issue templates) |
 
 ## WuBuGov ecosystem map
+
+**The federation layer:** `WuBuFederation` — the
+[registry](https://github.com/waefrebeorn/WuBuFederation) every organ reads:
+`registry/filings.json` (the single source of truth, GOV-18), `registry/tools.json`,
+the corpus seal (GOV-77), the federation tools, and every generated index. The
+seven organs are separate repositories; the layer they share is here.
 
 WuBuGov governs and indexes the domains of the ~ WuBu ~ space:
 
