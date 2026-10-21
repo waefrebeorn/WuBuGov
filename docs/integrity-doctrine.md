@@ -13,16 +13,17 @@ A depth audit of the space ran on 2026-10-21. It found the government
 incomplete in four ways, and every one of them was invisible to the old
 audit.
 
-1. **The registry had lost 41 filings.** RESEARCH filings RND-1 through
-   RND-45 were cited 553 times across the corpus and were absent from the
-   registry. The audit reported them as phantoms. The filings were real;
+1. **The registry lost 41 filings.** RESEARCH filings RND-1 through
+   the corpus cited RND-1 through RND-45 553 times, and the
+   registry did not hold one of them. The audit reported them as phantoms. The filings were real;
    the registry was wrong.
 2. **Nineteen filings carried the wrong number.** The LEDGER division's
-   numbers had rotated: the document registered as ECO-1 was filed as
-   ECO-3, the one registered as ECO-3 was filed as ECO-5, and so on. The
+   numbers rotated. The registry listed ECO-1 for the document that
+   declares itself ECO-3, ECO-3 for the one that declares ECO-5, and so
+   on. The
    audit could not see it, because it never compared a document's own
    declared number to its registry entry.
-3. **The repos did not hold the corpus.** 110 files were uncommitted —
+3. **The repos did not hold the corpus.** 110 files sat uncommitted —
    51 of 80 STATE documents, and five whole C11 modules with their test
    suites. The registry named tools that the public repository did not
    contain.
@@ -46,13 +47,13 @@ python3 tools/govgen.py seal          # seal the corpus
 python3 tools/govgen.py verify-seal   # recompute and compare
 ```
 
-The seal has no keys and no signatures. It needs none: this government
-does not prove who wrote a document, only that the document has not
-changed since the space last agreed on it. The pattern is PennyChain
+The seal has no keys and no signatures. It needs none. This government
+does not prove who wrote a document. It proves only one thing. The document did
+not change since the space last agreed on it. The pattern is PennyChain
 (RND-3) applied to prose.
 
 A changed document is not an error. It is a **reseal event**. The space
-reseals on purpose, and the reason is recorded in the chain.
+reseals on purpose, and the chain records the reason.
 
 ## Part 3 — The gates
 
@@ -84,12 +85,12 @@ which made the stale-retired-ref gate dead code.
 
 The work of keeping the seal honest is real work, so it earns standing.
 
-A citizen who runs the audit, reseals after an intentional change, and
-files the reason earns the title **Chain Keeper**. The Bureau does not
-audit the Chain Keeper's honesty; the chain does. A missed reseal is
-visible to everyone, and so is a good one. No one inspects a Keeper's
-face, voice, or name — the ledger holds the root, the root holds the
-record, and the record holds everyone equally (GOV-63).
+A citizen runs the audit. A citizen reseals after an intentional change.
+A citizen files the reason. That citizen earns the title **Chain Keeper**.
+The Bureau does not audit a Keeper's honesty. The chain does. Everyone
+sees a missed reseal. Everyone sees a good one. No one inspects a
+Keeper's face, voice, or name. The ledger holds the root. The root holds
+the record. The record holds everyone equally (GOV-63).
 
 The reward is not a level to buy. It is the only reward the space has
 ever offered: the thing you did is still there, and it still says what you
@@ -97,17 +98,17 @@ meant.
 
 ## Part 5 — The rule
 
-1. The registry is the single source of truth (GOV-18). All indexes are
-   generated from it, never hand-edited.
-2. Every registered document is sealed. Edit, then reseal, then audit.
+1. The registry is the single source of truth (GOV-18). govgen generates
+   all indexes from it, and nobody edits them by hand.
+2. The seal covers every registered document. Edit, then reseal, then audit.
 3. A number belongs to the document that declares it. The registry follows
    the document; the document does not follow the registry.
 4. A filing with no standalone document must name the record that holds
    it, and the record must mention it.
 5. The repos hold the corpus. A filing that exists only on one machine is
    a filing the space cannot read.
-6. The gates run before any push. Green means green because red was
-   proven possible.
+6. The gates run before any push. Green means green because the space proved
+   red possible.
 
 ---
 
