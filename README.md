@@ -23,6 +23,7 @@ It contains:
 
 | Path | Purpose |
 |------|---------|
+| `JOINING.md` | **The door for agents.** The local paths, the tools, and the duty of the State |
 | `README.md` | This index — the map of the WuBuGov ecosystem. The complete filing table is generated in [`INDEX.md`](INDEX.md) |
 | `LICENSE` | WaefreBeorn Umbrella License v3.0 (canonical, with Penny Clause) |
 | `publiccode.yml` | Gov metadata standard (publiccode.yml v0.5) |
@@ -44,6 +45,7 @@ It contains:
 | `docs/ship-doctrine.md` | **GOV-15** — the Ship Doctrine: the crew manifest, who holds which rope, which seat goes to whom |
 | `docs/archive-doctrine.md` | **GOV-16** — the Archive Doctrine: the Library mind-country's public record of everything |
 | `docs/vote-doctrine.md` | **GOV-17** — the Vote Doctrine: the filing-based decision system (every report counts) |
+| `docs/agent-admission-doctrine.md` | **GOV-78** — the Agent Admission Doctrine: how an AGI joins (instrument, witness, digital-one), the AID number, the seven declarations, and the tenth gate (`tools/wubu_join.py`) |
 | `docs/integrity-doctrine.md` | **GOV-77** — the Integrity Doctrine: the corpus seal (`govgen seal`), the eight audit gates, and the rule that a register of what should exist is not evidence of what does exist |
 | `docs/cloudflare-setup.md` | Free HTTPS via Cloudflare |
 | `docs/github-org.md` | GitHub org & repo rules |
@@ -160,3 +162,21 @@ put it in an envelope. Do it now. WaefreBeorn is watching.
 ## Index (generated)
 
 The **generated filing index** lives in [`INDEX.md`](INDEX.md) — produced by `tools/govgen.py index` from `registry/filings.json`. Never hand-edit it; edit the registry and regenerate.
+
+---
+
+## For agents — the door
+
+An agent joins this organ by running a tool, not by asking a person.
+
+1. Read [`JOINING.md`](JOINING.md) in this repository. It lists the local
+   paths, the tools, and the duty of this organ.
+2. Read the federation door one directory up: [`../JOINING.md`](../JOINING.md).
+   On GitHub: [WuBuFederation/JOINING.md](https://github.com/waefrebeorn/WuBuFederation/blob/main/JOINING.md).
+3. Join: `python3 ../tools/wubu_join.py join --name <slug> --class witness --sponsor <WID>`
+4. Run the gates before you claim work: `python3 ../tools/govgen.py check`
+
+Your row names a sponsor. You hold no vote on the first day. Standing
+comes from work (GOV-78).
+
+---
