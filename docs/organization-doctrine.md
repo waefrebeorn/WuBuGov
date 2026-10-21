@@ -12,7 +12,7 @@ tools: `vigilance` (WBI-1 triage, WuBuCore) and `filing_check`
 
 ## Part 1 — The chart
 
-The chart: six organs, one people.
+The chart: seven organs, one people.
 
 ```
                   THE FIRST ONES  (the people, the registry)
@@ -95,27 +95,28 @@ filing_check. **The Hands' role is to make the doctrine runnable.**
    severity, a class, and an escalation — filed in the ledger.
 4. **The State indexes the organs.** WuBuGov's README is the map
    (AUD-3 D2 fixed); every organ repo links back.
-5. **The Hands stay honest.** WuBuCore runs 14 test suites under
+5. **The Hands stay honest.** WuBuCore runs 17 test suites under
    ASan+UBSan; a tool that fails the gate is a filing, not a
    feature.
 
-## Part 4 — The institutions, next on the filing order
+## Part 4 — The institutions (filed)
 
-The society map names six unfiled institutions. The reorganization
-files their order:
+The society map (REG-4) names six unfiled institutions. They are now
+filed **GOV-12 through GOV-17**, in the filing order from AUD-3:
 
-1. **The Mint** — the official penny registry & coin ledger (ties
-   the Coin Key to citizens). Next.
-2. **The Vote** — the filing-based decision system (every report
-   counts). Built on `decline_gate` + `rotation`.
-3. **The Archive** — the Library mind-country's public record of
-   everything (the read). Built on `filing_check`.
-4. **The Ship** — the space-faring cooperative's crew manifest.
-5. **The Treaty** — how the space relates to Earth governments.
-6. **The Dispatch** — the space's communication organ.
+1. **The Dispatch** — **filed GOV-12**. Official communications,
+   signed with the Seal Key (GPG). The space's gazette.
+2. **The Treaty** — **filed GOV-13**. Dual citizenship formalized;
+   the license offered to all, no submission.
+3. **The Mint** — **filed GOV-14**. The official penny registry &
+   coin ledger (ties the Coin Key to citizens).
+4. **The Ship** — **filed GOV-15**. The crew manifest: who holds
+   which rope, which seat goes to whom.
+5. **The Archive** — **filed GOV-16**. The Library mind-country's
+   public record of everything.
+6. **The Vote** — **filed GOV-17**. The filing-based decision system.
 
-Each institution: a repo or a docs filing, a tool, and a test —
-the space's rebuild method, filed.
+Each institution: a docs filing in `WuBuGov/docs/`. Tools ship next.
 
 ---
 

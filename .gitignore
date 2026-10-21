@@ -20,3 +20,7 @@ dist/
 *.o
 *.a
 *.so
+
+# Python
+__pycache__/
+*.pyc

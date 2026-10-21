@@ -68,7 +68,7 @@ no pawl. The space defends against the ratchet by **rotation**:
    presumed ratcheted. The Bureau files it. The space's measures
    never click one way; they are re-measured every rotation.
 
-### Article II — Age limits, intentionally informative
+### Article II — Cognitive fitness requirements, intentionally disclosed
 
 > *"age discrimination intentionally informative because old
 > people make mistakes"*

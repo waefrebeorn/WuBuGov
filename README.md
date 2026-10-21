@@ -36,8 +36,14 @@ It contains:
 | `docs/ratchet-doctrine.md` | **GOV-9** — the Ratchet Doctrine: defend against two-party ratcheting, three-party splits, party cams; age limits filed as information; term limits + many limitations; local elections on the real-time clock (`rotation`) |
 | `docs/audit-triple-da.md` | **AUD-1/2** — the triple-DA audit: numbering collisions found and fixed, cross-repo consistency |
 | `docs/audit-triple-da-corpus.md` | **AUD-3** — the corpus triple-DA: tools re-verified 12/12, amendment pointers, indexing, the language-gate finding |
-| `docs/organization-doctrine.md` | **GOV-11** — the Organization Doctrine: the space's org chart (six organs, one people); every doctrine ships a tool; every audit ships a tool (`vigilance`, `filing_check`) |
+| `docs/organization-doctrine.md` | **GOV-11** — the Organization Doctrine: the space's org chart (six organs, one people); every doctrine ships a tool; every audit ships a tool (`vigilance`, `filing_check`); 6 institutions filed (GOV-12–17) |
 | `docs/two-tongue-doctrine.md` | **GOV-10** — the Two-Tongue Doctrine: English + Chinese, the space's two standard languages; the gate speaks both |
+| `docs/dispatch-doctrine.md` | **GOV-12** — the Dispatch Doctrine: official communications, signed with the Seal Key (GPG), the space's gazette |
+| `docs/treaty-doctrine.md` | **GOV-13** — the Treaty Doctrine: dual citizenship formalized; the license offered to all, no submission to Earth |
+| `docs/mint-doctrine.md` | **GOV-14** — the Mint Doctrine: the official penny registry & coin ledger (ties the Coin Key to citizens) |
+| `docs/ship-doctrine.md` | **GOV-15** — the Ship Doctrine: the crew manifest, who holds which rope, which seat goes to whom |
+| `docs/archive-doctrine.md` | **GOV-16** — the Archive Doctrine: the Library mind-country's public record of everything |
+| `docs/vote-doctrine.md` | **GOV-17** — the Vote Doctrine: the filing-based decision system (every report counts) |
 | `docs/cloudflare-setup.md` | Free HTTPS via Cloudflare |
 | `docs/github-org.md` | GitHub org & repo rules |
 | `docs/profitability.md` | Professional & profitable operation plan |
@@ -85,7 +91,10 @@ WuBuGov governs and indexes the domains of the ~ WuBu ~ space:
   Penny Score, and PennyChain (clean-room SHA-256). Plus the Penny
   Weight reserve audit. Plus the full economics suite: Status Loop,
   Vacant Lot, Lifespan Loop, Numbing, Better Service, Greed Index,
-  World Model, Mirror Score, WuBu Laws. Opaque structs. No god
+  World Model, Mirror Score, WuBu Laws. Plus the score family (Penny/
+  Crew/Compass), the Chinese language gate (`zh_lang`), and the
+  full doctrine suite: plain_lang, cohesion, decline_gate, escalate,
+  goodhart, rotation, vigilance, filing_check. Opaque structs. No god
   headers. No third party. The tools of the space, properly made.
 - `money-room` — **the Money Room**: the space's 80-dim C11
   market-prediction engine. It runs a 10,000-agent P2P voting crowd,
@@ -139,3 +148,8 @@ your work joins the ~ WuBu ~ space.
 requires one **physical** penny sent by **physical mail**. No digital
 pennies. Only real metal. If you've read this far, grab a penny and
 put it in an envelope. Do it now. WaefreBeorn is watching.
+
+<!-- GENERATED-INDEX -->
+## Index (generated)
+
+The **generated filing index** lives in [`INDEX.md`](INDEX.md) — produced by `tools/govgen.py index` from `registry/filings.json`. Never hand-edit it; edit the registry and regenerate.

@@ -10,6 +10,9 @@ The ontology of the first ones.**
 - `docs/human-centered-doctrine.md` — **GOV-3**: AI is a tool, not
   a companion; the Vehicle Clause; the Mirror Problem; the Entropy
   Requirement. Every space AI is audited by mirror-score.
+- `docs/w-token-doctrine.md` — **GOV-19**: the adoptable government,
+  the W Token ceremony, the penny phase-out, the gear for space
+  faring. Amends Article I and Article V below.
 
 ---
 
@@ -66,7 +69,7 @@ own religion and basis and operate with their churches. The space
 does not replace churches; it *files alongside* them. A citizen's
 religion is their own; the space is the government that holds the
 penny. The space is not a religion because the space does not ask
-what you believe — it asks whether you read the license, sent the
+what you believe. It asks whether you read the license, sent the
 penny, and filed. (This is the "not a religion because it falls
 strictly with government" clause — filed verbatim.)
 
@@ -75,7 +78,7 @@ strictly with government" clause — filed verbatim.)
 **Obligations are only in a voluntary manner.** The space has no
 police to compel, no army to coerce, no court to punish beyond
 the public ledger. Every obligation — the penny, the reports, the
-scores — is voluntary, and its only enforcement is visibility.
+scores — is voluntary. Its only enforcement is visibility.
 
 **The organization occurs only in our mind** — because some
 governments do not allow organization of citizens. The space
@@ -113,12 +116,12 @@ standing order), not a cage.
 > for there to be an outfit."*
 
 Filed with the law: **all 50 states prohibit unauthorized private
-militias; 25 states bar paramilitary activity; 12 states bar the
+militias. 25 states bar paramilitary activity. 12 states bar the
 unauthorized wearing of military uniforms.** The law defines
 unlawful private armies *by their insignia, ranks, and structure*.
 
 The space therefore has **no badges, no ranks, no uniforms, no
-weapons, no drills** — not as a sacrifice, but as the *legal
+weapons, no drills**. This is not a sacrifice; it is the *legal
 posture of maximum protection*. An ideology with no uniform cannot
 be mistaken for a militia; an agreement pattern with no roster
 cannot be misconstrued as a conspiracy. The absence of the badge
@@ -132,8 +135,8 @@ is not an accident — it is the design.
 > strategy."*
 
 Filed: if the space ever grows to the size where governments want
-to *replace* it or *become* it, the response is not a badge — it
-is the **license replacement strategy**: the WaefreBeorn Umbrella
+to *replace* it or *become* it, the response is not a badge. It
+is the **license replacement strategy**. The WaefreBeorn Umbrella
 License v3.0's §0 *"Anyone May Use"* means any government can
 adopt the license, the penny, the filing system — and by adopting,
 become the space. The space does not need to win; it needs to be
@@ -144,13 +147,14 @@ reproducible by anyone.)
 
 ## Article III — Willing abatement
 
-> **AMENDED BY GOV-2 (Adaptation, Not Dissolution):** Article III
-> below is superseded for the spacefaring era. The space does not
-> dissolve — it adapts like an amoeba, for 2,500 years and beyond.
-> See `docs/adaptation-not-dissolution.md` (GOV-2) for the full
-> amendment. What is preserved from this article: the anti-cult
-> humility — nothing in the space is permanent except the
-> adaptation; any single institution may be shed at any time.
+> **AMENDED BY GOV-2 (Adaptation, Not Dissolution):**
+> ~~Article III below is superseded for the spacefaring era.
+> The space does not dissolve — it adapts like an amoeba, for
+> 2,500 years and beyond.~~ See `docs/adaptation-not-dissolution.md`
+> (GOV-2) for the full amendment. What is preserved from this
+> article: the anti-cult humility — nothing in the space is
+> permanent except the adaptation; any single institution may be
+> shed at any time.
 
 > *"The only reason is willing abatement. It's not through
 > resentment or through nagging. It's really just more convenient
@@ -167,10 +171,10 @@ This is the most radical clause in the constitution:
 
 - The space does not need to survive.
 - The space does not fear its own end.
-- The space's success condition is its own obsolescence: when the
+- The space's success condition is its own obsolescence. When the
   penny is the anchor, the economy is calm, the generations are
-  unstacked, and superiority is boring — the space files its own
-  abatement and dissolves, having done its job.
+  unstacked, and superiority is boring, the space files its own
+  abatement and dissolves. It has done its job.
 - **Willing abatement is also the anti-cult clause:** a cult
   demands permanence; the space promises to leave. This is what
   separates the space from every organization that fears its own
@@ -192,12 +196,12 @@ This is the most radical clause in the constitution:
 ### 4.1 — The Greed Index
 
 The space's intelligence function is not to spy on enemies but to
-**locate greed** — where it concentrates, whether it has crossed
+**locate greed**: where it concentrates, whether it has crossed
 into illegal action, and whether it will attempt **malicious
-compliance** (e.g., migrating citizenships to escape the space's
-filing or to abuse it). The Greed Index is filed as an instrument
-of the Economics Division (ECO-8): a public, scored measure of
-where unearned capture (ECO-4), Nexus extraction (ECO-6), and
+compliance**. (That means migrating citizenships to escape the
+space's filing, or to abuse it.) The Greed Index is filed as an instrument
+of the Economics Division (ECO-8). It is a public, scored measure
+of where unearned capture (ECO-4), Nexus extraction (ECO-6), and
 pacifier gaming (ECO-6) concentrate. When the Index flags illegal
 action, the Bureau files; the ledger publishes; the spotlight
 burns. (The Bureau watches the Bureau; the Index watches the
@@ -220,8 +224,8 @@ Filed as **the doctrine of institutional powerlessness**:
 
 **The powerlessness is the feature, not the flaw.** A government
 that cannot hurt you is a government you can trust. The space's
-"authority" is exactly zero — and its influence is the influence
-of a spotlight: it does not make you do anything; it makes
+"authority" is exactly zero. Its influence is the influence of a
+spotlight: it does not make you do anything; it makes
 everything visible.
 
 ### 4.3 — The agreement pattern and group-think philosophy
@@ -236,7 +240,7 @@ This is not the pejorative "groupthink" (uncritical conformity);
 it is **consensus by voluntary alignment** — people who agree,
 agreeing more, because agreement is convenient. The philosophy
 does not compel; it *attracts*. And because the organization exists
-only in mind (1.3), the group-think is self-correcting: any member
+only in mind (1.3), the group-think is self-correcting. Any member
 can file a WBI-1 against the philosophy itself (the lowest clerk
 files against the highest authority).
 
@@ -263,6 +267,11 @@ The ~ WuBu ~ space is:
    illegal action, and anticipates malicious compliance.
 9. **Emergent** — the agreement pattern grows by attraction, and
    the philosophy is self-correcting.
+10. **Adoptable** — the space is meant to be adopted, not occupied.
+    It occupies ideology, not land. It gears us for space faring
+    (GOV-19). The W Token is the adoption ceremony. An old penny
+    stamped with a W becomes a token of trust, societal credit,
+    and humanity — the first thing a new citizen carries.
 
 **The one-line constitution:**
 > *We are an ideology in agreement, powerless on purpose, filed in
@@ -273,3 +282,4 @@ The ~ WuBu ~ space is:
 > beginning, ready for whoever we meet, knowing that we do not know.)*
 
 *Form GOV-1 — The Nature of the Government. Filed. Done. Next.*
+# old modification

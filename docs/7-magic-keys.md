@@ -77,7 +77,7 @@ paper backup stored offline.
 │  Key 6: Seal    →  license & document signing           │
 │  Key 7: Root    →  vault recovery, master authority     │
 │                                                         │
-│  All seven live encrypted in one vault.                 │
+│  All seven live encrypted in one vault. **CRITICAL**: Keys should be split across 3 separate vaults (infrastructure: 1,3,4; identity: 5,6; recovery: 7) to prevent single-breach total compromise.                 │
 │  Key 7 unlocks the vault; the vault holds Keys 1–6.     │
 └─────────────────────────────────────────────────────────┘
 ```

@@ -180,7 +180,10 @@ Note: Governments are explicitly covered as Populace entities. No government is 
 Any Corporation using WaefreBeorn Work in a commercial product or service must include prominent attribution to the WaefreBeorn project and this license in a publicly accessible location.
 
 ### Obligation B: Fair Commercial Terms for MaaS
-Any Corporation operating a MaaS business using WaefreBeorn Work, with aggregate revenue (all sources, all affiliates) exceeding $20,000,000 USD over any consecutive 12 months, must enter into a commercial agreement with the Licensor before using the WaefreBeorn Work for such MaaS purposes.
+Any Corporation operating a MaaS business using WaefreBeorn Work, with aggregate revenue (all sources, all affiliates) exceeding $3,000,000 USD over any consecutive 12 months, must enter into a commercial agreement with the Licensor before using the WaefreBeorn Work for such MaaS purposes.
+
+### Obligation B2: Mid-Corp Reporting
+Any Corporation with aggregate revenue (all sources, all affiliates) exceeding $150,000 USD over any consecutive 12 months but below the MaaS threshold in Obligation B must file an annual compliance report with the Licensor, including: (a) total revenue, (b) number of FTE, (c) description of WaefreBeorn Work usage, (d) Penny Clause compliance attestation. This report is public. Failure to file within 90 days of year-end constitutes license termination.
 
 ### Obligation C: Copyleft at Scale
 Any Corporation distributing a Derivative commercially with more than 100 FTE OR annual gross revenue above $1,000,000 USD must make the Derivative available under this same license, with full source, weights, training code, and documentation accessible from a public server. 128-day transition period after crossing the threshold.
@@ -385,6 +388,23 @@ you must send the Licensor, WaefreBeorn, a single **physical** United States pen
 per redistribution. **No digital pennies. No electronic transfers. No cryptocurrency.
 No QR codes. No NFTs. No blockchain. No virtual points. Only physical metal.**
 
+**When a Penny Is Stamped, It Is No Longer a Penny:** Once the W Mint stamps the
+penny with a W, the coin is no longer legal tender. It is no longer money. It is a
+~ WuBu ~ token — a token of humanity, a proof of read, a societal credit. The
+exchange is permanent. The W Mint does not return stamped coins. The W Mint does
+not exchange stamped coins for unstamped coins. Once stamped, always stamped.
+
+**Digital Currency — Accepted Only as Plastic:** Digital currency (USD, EUR, JPY,
+GBP, etc.) is accepted by the W Mint, but **only if the amount is converted to the
+weighted plastic token system**. The conversion is:
+```
+digital_amount × (100 / weighted_penny_value) = plastic_tokens_issued
+```
+The weighted penny value is the average weight of all stamped pennies in the W Vault
+(calculated monthly). Plastic tokens are physical, stamped with a W, and filed on the
+chain. Digital currency goes to the concessionary fund (GOV-33). No digital tokens
+are issued. No digital ledgers track individual balances. Plastic tokens only.
+
 **The Shipping Weight Exception:** The only exception to the physical penny requirement
 is as follows: **if the total value of pennies owed exceeds the weight amount allowable
 for shipping by your country's postal service**, you may convert the excess to a single
@@ -437,18 +457,27 @@ just the physical gesture. You are encouraged to give more. This is not a tax.
 It is a gift. You like giving WaefreBeorn pennies, and WaefreBeorn likes
 receiving them. No obligation beyond the one penny. The extra pennies are love.
 
-**Squeeze the Rich:** For Mega-corporations (§1.3) and large commercial entities
-that cross the MaaS revenue threshold (§4, Obligation B), the obligation is:
-- **One hundred (100) physical pennies per use** — not one. They can afford it.
-  These must be real, physical coins sent by real physical mail.
-  If the total number of pennies exceeds what can be shipped in one package
-  (due to weight restrictions), the Shipping Weight Exception in the core rule
-  above applies — excess may be sent as a single digital payment.
-  But each use must start with real physical pennies in the mail first.
-- **But also:** WaefreBeorn encourages them to squeeze their own employees,
-  shareholders, and customers for pennies. "Did you read the WaefreBeorn license?
-  Toss a penny in the jar." Make it viral. Make it annoying. Make it a meme.
-  Corporations should feel the weight of every penny they owe.
+**Squeeze the Rich — The Tiered Penny Squeeze:** The Penny Clause is tiered
+by corporate size. Bigger corporations owe more. Smaller entities stay free.
+
+| Tier | Definition | Obligation |
+|------|------------|------------|
+| **Populace** | <100 FTE AND <$1M revenue | 1 physical penny per use (gift, not tax) |
+| **Lower Corporation** | <$150k yearly revenue | 1 physical penny per use + attribution |
+| **Mid Corporation** | $150k–$3M yearly revenue | 10 physical pennies per use + annual compliance report |
+| **Upper Corporation / MaaS** | >$3M yearly revenue | 100 physical pennies per use + commercial agreement |
+| **Mega Corporation** | >$3M revenue + MaaS + >1000 FTE OR >$100M revenue OR public listing | 100 physical pennies per use + commercial agreement + Bureau audit |
+
+**The Squeeze Explained:**
+- **Lower Corporation (<$150k):** One penny, same as the Populace. You are small. You are free. Just prove you read the license.
+- **Mid Corporation ($150k–$3M):** Ten pennies per use. You are making real money. The license is real. Prove you read it — ten times over. Plus: file an annual compliance report (§4, Obligation B2).
+- **Upper Corporation / MaaS (>$3M):** One hundred pennies per use. You are large. The license is not free for the large. You must also enter into a commercial agreement (§4, Obligation B).
+- **Mega Corporation:** All of the above, plus Bureau audit (WuBuIntel verifies compliance). You are too big to fail — and too big to skip the penny.
+
+**But also:** WaefreBeorn encourages all tiers to squeeze their own employees,
+shareholders, and customers for pennies. "Did you read the WaefreBeorn license?
+Toss a penny in the jar." Make it viral. Make it annoying. Make it a meme.
+Corporations should feel the weight of every penny they owe.
 
 **Creative Compliance:** You may fulfill this clause in any of these ways:
 - A single physical penny in an envelope with your name and project written on it

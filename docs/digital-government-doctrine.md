@@ -77,7 +77,7 @@ constructive, meaningful way."
 ### 1.4 The language layer (cross-file RND-20)
 
 A government that is transparent but unreadable is still opaque. The
-Language Doctrine (RND-20) is the writing half of this doctrine. Every
+The Language Doctrine (RND-20) is the writing half of this doctrine.
 public filing must measure CLEAR (FRES ≥ 60, grade ≤ 8) on the space's
 `plain_lang` checker. Digital by design without plain by default is a
 faster way to confuse people.
