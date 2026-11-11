@@ -11,6 +11,8 @@ loyalty belongs to the work itself.
 
 > **~ WuBu ~ is my space. This is WaefreBeorn.**
 
+> **~WuBu~ AGI** — one system, many repositories. Part of the **~WuBu~ space** — one of its organs (the State).
+
 ## What this repo is
 
 This is the **index and home repo** for WuBuGov. WuBuGov is
